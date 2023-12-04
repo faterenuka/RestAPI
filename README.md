@@ -21,8 +21,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 #create,update,create-drop,validate
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-```
-
 
 # Tech Stacks
 
